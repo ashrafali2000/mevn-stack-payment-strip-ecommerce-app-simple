@@ -1,1 +1,1 @@
-# mevn-stack-payment-strip-ecommerce-app-simple
+# mevn-stack-payment-stripe-ecommerce-app-simple
