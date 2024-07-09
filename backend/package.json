@@ -1,0 +1,38 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "estacet",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "@vue/cli": "^4.5.4",
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "env-cmd": "^10.1.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.6.1",
+    "mongoose": "^5.10.2",
+    "multer": "^1.4.2",
+    "node": "^14.8.0",
+    "node.js": "0.0.1-security",
+    "nodemon": "^2.0.4",
+    "object-path": "^0.11.5",
+    "rootpath": "^0.1.2",
+    "stripe": "^8.120.0",
+    "validator": "^13.1.1"
+  }
+}
